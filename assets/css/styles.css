@@ -1,0 +1,79 @@
+#logo {
+  max-height: 30px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+img {
+}
+
+#hushgames-banner {
+  margin-bottom: 20px;
+}
+
+#navbar-hush {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#headingname {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+}
+
+#about-container {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#hush-games-about-logo {
+  max-height: 200px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+#image-carousel-cont {
+  /*margin-top: 20px;*/
+  padding-top: 20px;
+}
+
+#carousel-1 {
+  max-width: 1000px;
+  /*max-height: 10px;*/
+}
+
+.game.icon {
+}
+
+.game-icon {
+  height: 550px;
+  padding-top: 20px;
+  margin: 0 0 10px 10px;
+  text-align: center;
+}
+
+.games-grid {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#My-games-text {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#games-para {
+  padding-left: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#my-games-link {
+  padding-left: 40px;
+}
+
